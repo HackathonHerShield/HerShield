@@ -18,7 +18,8 @@ Another file allows generation of the visual spectogram.
     - `whisper`
     - `librosa`
     - `numpy`
-    You can install these libraries using pip:
+
+You can install these libraries using pip:
 ```bash
 pip install argparse googletrans transformers whisper
 ```
