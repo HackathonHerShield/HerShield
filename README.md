@@ -1,4 +1,5 @@
-# Audio Transcription and Sentiment Analysis Script
+# HerShield Proof of Concept
+Audio Transcription and Sentiment Analysis
 
 ## Description
  <!-- Briefly describe what the script does -->
@@ -41,7 +42,7 @@ python transcribe.py sample.m4a
 
 Similarly, you can run the `spectogram.py` file to visualize the spectogram. 
 
-## Example
+## Spectogram
 <!-- Provide an example command to run the script -->
 ```bash
 python spectogram.py sample.m4a
